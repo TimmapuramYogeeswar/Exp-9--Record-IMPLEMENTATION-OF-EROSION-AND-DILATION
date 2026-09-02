@@ -86,7 +86,7 @@ plt.title("Input Image with Text")
 plt.axis('off')
 ```
 
-<img width="1021" height="414" alt="image" src="https://github.com/user-attachments/assets/689e606d-1127-43d4-8d94-581e936989ef" />
+<img width="1355" height="540" alt="image" src="https://github.com/user-attachments/assets/95148fbd-434c-4f7a-9d73-dffe2af0c328" />
 
 
 ### Erosion
@@ -103,7 +103,8 @@ plt.title("Eroded Image")
 plt.axis('off')
 ```
 
-<img width="1021" height="406" alt="image" src="https://github.com/user-attachments/assets/e98a33f7-20f1-41b1-aa2d-76b827bece45" />
+<img width="1374" height="538" alt="image" src="https://github.com/user-attachments/assets/dd9845bb-1674-430e-b5aa-fec0eda2a0af" />
+
 
 
 ### Dilation
@@ -117,7 +118,7 @@ plt.title("Dilated Image")
 plt.axis('off')
 ```
 
-<img width="1022" height="414" alt="image" src="https://github.com/user-attachments/assets/0ac21db5-ddc8-4fab-9bc3-2a6b6c1c397d" />
+<img width="1361" height="554" alt="image" src="https://github.com/user-attachments/assets/63f2d160-575f-473d-abda-4537a0014f3a" />
 
 
 
